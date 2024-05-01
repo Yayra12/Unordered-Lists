@@ -1,0 +1,13 @@
+ul{
+    font-family:'Verdana', serif;
+    font-size:22px;
+    background-color:indigo;
+    padding-top:10px;
+    padding-bottom:10px;
+    width:60%;
+}
+li{
+    background-color:lavender;
+    margin-bottom:5px;
+    padding:5px;
+}
